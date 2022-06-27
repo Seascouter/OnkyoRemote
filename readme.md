@@ -6,7 +6,7 @@
 ### TODO
 
 - [ ] On/Off
-    - [ ] On/Off Button Design
+    - [x] On/Off Button Design
     - [ ] On/Off Button Functionality
 - [ ] Speaker A On/Off
     - [ ] Speaker A On/Off Button Design  
